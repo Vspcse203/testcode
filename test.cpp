@@ -2,7 +2,7 @@
 using namespace std;
 
 int add( int a, int b){  //complete the code to return the sum of a and b
-
+return(a+b);
 
 }
 
